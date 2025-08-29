@@ -72,3 +72,20 @@ $$\displaystyle \Large m = \lim_{\Delta x \rightarrow 0} \frac{\Delta F}{\Delta 
 
 # More Notations
 
+![img_15.png](img_15.png)
+
+![img_16.png](img_16.png)
+
+# Example 2 : $f(x)=x^n,$ n = 1,2,3,...
+
+![img_17.png](img_17.png)
+
+![img_18.png](img_18.png)
+
+![img_19.png](img_19.png)
+
+![img_20.png](img_20.png)
+
+![img_21.png](img_21.png)
+
+![img_22.png](img_22.png)
